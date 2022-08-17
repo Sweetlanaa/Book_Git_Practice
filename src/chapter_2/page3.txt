@@ -1,0 +1,6 @@
+
+This is chapter 2
+
+page 3
+
+the page will commit with updated page 2 together

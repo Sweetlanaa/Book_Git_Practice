@@ -2,3 +2,7 @@
 This is chapter 2 page 2
 
 it will be edited later
+
+this was updated after first commit
+
+continue working
